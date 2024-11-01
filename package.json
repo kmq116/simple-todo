@@ -39,6 +39,6 @@
     "@vueuse/core": "^10.11.0",
     "ant-design-vue": "4.x",
     "lodash": "^4.17.21",
-    "uuid": "^10.0.0"
+    "uuid": "^11.0.2"
   }
 }
